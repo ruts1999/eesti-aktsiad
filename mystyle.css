@@ -23,12 +23,12 @@ li a:hover {
 }
 
 .clock {
-    position: relative;
-    top: 0px;
-    left: 2000px;
+    position: fixed;
+    top: 37px;
+    right: -77px;
     transform: translateX(-50%) translateY(-50%);
     color: #17D4FE;
-    font-size: 40px;
+    font-size: 24px;
     font-family: Orbitron;
     letter-spacing: 7px;
 }
