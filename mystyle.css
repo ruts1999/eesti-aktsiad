@@ -33,5 +33,10 @@ li a:hover {
     letter-spacing: 7px;
 }
    
-  h1.avaleht {text-align:center;}
-  p.avaleht {text-align:center;}
+h1.avaleht {
+    text-align:center;
+}
+
+p.avaleht {
+    text-align:center;
+}
